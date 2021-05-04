@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601334909 source:c:\users\mathe\onedrive\documentos\linguagem c\ac1_estrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601335388 source:c:\users\mathe\onedrive\documentos\linguagem c\ac1_estrutura\exercico 3.c
+	<stdio.h>
+	<conio.h>
+
